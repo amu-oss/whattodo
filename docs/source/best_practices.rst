@@ -2,7 +2,8 @@ Best Practices
 ==============
 
 Consider this page as a documented form of whatever wisdom we, as a community,
-have gained over time. If you feel that you can contribute towards
+have gained over time. Please feel free to `edit this page
+<https://github.com/amu-oss/whattodo>`_ if you find something helpful.
 
 Start using DuckDuckGo
 ----------------------
@@ -32,9 +33,9 @@ Have your own space on the internet, your website
 Why? Read https://summertraining.readthedocs.io/en/latest/blogging.html
 
 .. Increase your typing speed
---------------------------
-Learn a terminal based editor - vim/emacs.
-------------------------------------------
+.. --------------------------
+.. Learn a terminal based editor - vim/emacs.
+.. ------------------------------------------
 
 Know the OS in OSS - What is Open Source?
 -----------------------------------------
@@ -49,18 +50,14 @@ sure to go through the history first.
 
 Source: https://summertraining.readthedocs.io/en/latest/beforestart.html#history-of-free-and-open-source-software
 
-Watch these:
-------------
+Documentary Recommendations
+---------------------------
 - `The Internet's Own Boy - The Story of Aaron Swartz <https://www.youtube.com/watch?v=9vz06QO3UkQ>`_
 - `The Great Hack <https://www.thegreathack.com/>`_
 
+Reading Material
+----------------
 
-Read the following:
--------------------
-
-- `"How To Ask Questions The Smart Way" by
-Eric Steven Raymond <http://catb.org/~esr/faqs/smart-questions.html>`_
-- `"Getting Answers" by Mike Ash
-<https://www.mikeash.com/getting_answers.html>`_.
-- `"Teach Yourself Programming in Ten Years" by Peter Norvig
-<http://norvig.com/21-days.html>`_
+- `"How To Ask Questions The Smart Way" by Eric Steven Raymond <http://catb.org/~esr/faqs/smart-questions.html>`_
+- `"Getting Answers" by Mike Ash <https://www.mikeash.com/getting_answers.html>`_.
+- `"Teach Yourself Programming in Ten Years" by Peter Norvig <http://norvig.com/21-days.html>`_.

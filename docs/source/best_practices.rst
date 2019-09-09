@@ -2,8 +2,11 @@ Best Practices
 ==============
 
 Consider this page as a documented form of whatever wisdom we, as a community,
-have gained over time. Please feel free to `edit this page
-<https://github.com/amu-oss/whattodo>`_ if you find something helpful.
+have gained over time.
+
+If you find something helpful, which you think would be a great addition here,
+please feel free to edit `this page <https://github.com/amu-oss/whattodo>`_ and
+send a PR.
 
 Start using DuckDuckGo
 ----------------------

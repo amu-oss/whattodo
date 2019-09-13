@@ -72,6 +72,29 @@ Do not try to assume which pronoun to use while talking to someone. It is much
 nicer if you use gender neutral words (or the names) in any type of
 communication. This guide has more details which one should read.
 
+Adjust notification time for Slack
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+By default, Slack turns off notifications after 10 PM.
+
+To avoid missing out on any notifications after that, extend the default
+notification time according to your sleeping schedule.
+
+For changing, reach out to *Preferences* > *Notifications* > *Do Not Disturb*.
+and set your notification time frame. 
+
+.. image:: img/slack-dnd-time.png
+
+Try out the dark theme
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Slack offers a dark theme as well, which is much more pleasant and comfortable
+for your eyes.
+
+To turn in on, head over to *Preferences* > *Themes* > *Dark*.
+
+.. image:: img/slack-dark.png
+
 Be nice to everyone
 ^^^^^^^^^^^^^^^^^^^
 

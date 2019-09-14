@@ -4,10 +4,9 @@
 
 > I am ready to dedicate my time and efforts to drive myself towards being a better engineer. But, I'm confused - What to do?
 
-Perfect! This document is written especially for you - [read it right
-away!][li]
+Perfect! This document is written especially for you - [read it right away!][li]
 
-[slack]: https://amu-oss.slac.com
+[slack]: https://amu-oss.slack.com
 [li]: https://whattodo.readthedocs.io
 
 ---

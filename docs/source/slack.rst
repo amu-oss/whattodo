@@ -73,7 +73,7 @@ nicer if you use gender neutral words (or the names) in any type of
 communication. This guide has more details which one should read.
 
 Adjust notification time for Slack
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 By default, Slack turns off notifications after 10 PM.
 
@@ -86,7 +86,7 @@ and set your notification time frame.
 .. image:: img/slack-dnd-time.png
 
 Try out the dark theme
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
 
 Slack offers a dark theme as well, which is much more pleasant and comfortable
 for your eyes.

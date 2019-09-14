@@ -75,7 +75,7 @@ communication. This guide has more details which one should read.
 Adjust notification time for Slack
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-By default, Slack turns off notifications after 10 PM.
+By default, Slack automatically turns off notifications after 10 PM.
 
 To avoid missing out on any notifications after that, extend the default
 notification time according to your sleeping schedule.

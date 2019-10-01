@@ -58,7 +58,7 @@ Documentary Recommendations
 - `The Internet's Own Boy - The Story of Aaron Swartz <https://www.youtube.com/watch?v=9vz06QO3UkQ>`_
 - `The Great Hack <https://www.thegreathack.com/>`_
 
-Recommended REading
+Recommended Reading
 -------------------
 
 "Must read" articles for anyone who is doing anything even remotely related to

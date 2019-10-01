@@ -58,9 +58,13 @@ Documentary Recommendations
 - `The Internet's Own Boy - The Story of Aaron Swartz <https://www.youtube.com/watch?v=9vz06QO3UkQ>`_
 - `The Great Hack <https://www.thegreathack.com/>`_
 
-Reading Material
-----------------
+Recommended REading
+-------------------
 
-- `"How To Ask Questions The Smart Way" by Eric Steven Raymond <http://catb.org/~esr/faqs/smart-questions.html>`_
+"Must read" articles for anyone who is doing anything even remotely related to
+technology:
+
+- `"How To Ask Questions The Smart Way" by Eric Steven Raymond <http://catb.org/~esr/faqs/smart-questions.html>`_.
 - `"Getting Answers" by Mike Ash <https://www.mikeash.com/getting_answers.html>`_.
 - `"Teach Yourself Programming in Ten Years" by Peter Norvig <http://norvig.com/21-days.html>`_.
+- `"Why I wrote PGP" by Philip Zimmermann <https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html>`_.

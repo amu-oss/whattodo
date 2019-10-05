@@ -13,6 +13,7 @@ However, please see :ref:`how-to-talk` for our communication guidelines first.
 
    slack
    FAQ
+   blogging
    best_practices
 
 .. raw:: HTML

@@ -63,7 +63,7 @@ Instead you can either share code as media on Slack (see screenshot below), or
 upload your code to paste service like paste.debian.net or gist.github.com and
 then share a link with us.
 
-.. image:: img/slack-code.png
+.. image:: img/slack-dark-1.png
 
 Do not assume pronouns of people
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

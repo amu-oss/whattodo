@@ -1,16 +1,15 @@
 Blogging
 ========
 
-One of the most effective ways to get a grasp on a new topic, is to write
-about it.
+One of the most effective ways to get a grasp on a new topic, is to write about
+it.
 
-To answer the question - *"Why Blog?"*, read this awesome guide - `here
+To answer the question - *"Why Blog?"*, read `this awesome guide
 <https://summertraining.readthedocs.io/en/latest/blogging.html>`_ by `Jason
 Braganza <https://janusworx.com/>`_.
 
-Writing blogs is highly encouraged. At AMU-OSS, we follow the practice of
-writing blog posts about whatever we've learnt in the weekly online
-sessions.
+At AMU-OSS, we follow the practice of writing blog posts about whatever we've
+learnt in the weekly online sessions.
 
 We encourage the habit of writing frequently, and on anything of your interest.
 
@@ -35,7 +34,7 @@ Make your blog visible to everyone
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 By default, all the posts you write are unlisted (i.e. they do not appear on
-the https://blogs.amuoss.tk/read).
+https://blogs.amuoss.tk/read).
 
 To make them public, follow these steps:
 

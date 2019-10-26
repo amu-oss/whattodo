@@ -1,8 +1,8 @@
 What to do?
 ===========
 
-Through this website, we attempt to document whatever advise we found
-helpful. If you've a question, please try searching here first.
+Through this website, we attempt to document whatever advice we found
+helpful. If you have a question, please try searching here first.
 
 If you do not find the answer to your question, or aren't satisfied with  it,
 you're most welcome to hop onto our `chat <https://amu-oss.slack.com>`_.
@@ -13,6 +13,7 @@ However, please see :ref:`how-to-talk` for our communication guidelines first.
 
    slack
    FAQ
+   blogging
    best_practices
 
 .. raw:: HTML

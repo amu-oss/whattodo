@@ -15,12 +15,12 @@ There will be many times in a day when you will need some help, may be to solve
 a problem, or to learn a new thing. Before you go and ask for help, you should
 first search for a solution. Most of the times, you will find the answer
 yourself. We suggest everyone to use `DuckDuckGo <duck.com>`_ search engine.
-This particular search engine does not track you, and is focused to protect your
-privacy.
+This particular search engine does not track you, and is focused to protect
+your privacy.
 
-If you open the site for the first time, it will show you ways you can enable it
-as the default search engine in your browser. That should be the first thing to
-do. Go ahead, and enable DuckDuckGo as the default search engine.
+If you open the site for the first time, it will show you ways you can enable
+it as the default search engine in your browser. That should be the first thing
+to do. Go ahead, and enable DuckDuckGo as the default search engine.
 
 To know more why should you use DuckDuckGo, read their `privacy page
 <https://duckduckgo.com/privacy>`_.
